@@ -9,38 +9,31 @@ export const fetchAll = (...args: string[]): Promise<AxiosResponse<ResponseTypes
 export const userResponse = (type: string, game?: GameTypes) => {
   if (type === 'utility') {
     return `
-*Free Games Tracker*
+*Tutturuuuu~*
 /aflojajuegos - _get a list of free games_
     `;
   }
 
   if (type === 'start') {
     return `
-_Let me see what I can get..._
-
-...pobre
-....asqueoroso
-.....sopa do macaco
-......muerto de hambre
-
-        *NELSON*
-    `;
+_Tutturuuuu~
+Anone, Mayushii will try her best to find something for you!_
+`;
   }
 
   if (type === 'nogames') {
-    return `Juan, te busca Kike, dice que *no hay juegos gratis*.`;
+    return `Mayushii could not find anything, but there is a *banana* for you. hehe`;
   }
 
   if (type === 'error') {
-    return `Something went wrong. Joseph, es hora de que _vuelvas_ con *Amanda*.`;
+    return `Something went wrong.`;
   }
 
   if (type === 'correct' && game) {
     const { name, currentPrice, store, id, fullPrice } = game;
-
     return `
 *${name}* is _${currentPrice}_ on [${store}](${redirectRoute}${id})
-full price is ${fullPrice}$, so... you should take it.
+full price is *${fullPrice}$*, our _supa hacka_ is happy with his new game!.
     `;
   }
 

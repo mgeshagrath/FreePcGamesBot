@@ -1,6 +1,6 @@
 {
-  "name": "freepcgamesbot",
-  "version": "1.0.9",
+  "name": "mayushiibot",
+  "version": "1.2.7",
   "description": "Telegram bot for tracking free pc games!",
   "main": "index.js",
   "scripts": {
