@@ -35,7 +35,6 @@
 ## Features
 
 - [x] Get free games!
-- [x] Insult my friends
 
 ## Contact
 
