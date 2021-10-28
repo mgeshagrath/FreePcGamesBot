@@ -1,5 +1,5 @@
 
-<h1 align="center">Pokedex</h1>
+<h1 align="center">Tlg</h1>
 
 <div align="center">
    Developed with NodeJs, Telegraf and TypeScript
@@ -8,7 +8,7 @@
 <div align="center">
   <h3>
     <span> | </span>
-       <a href="https://t.me/MuertosDeHambreBot">
+       <a href="https://t.me/MayushiiTuturuubot">
       Give it a try!
     </a>
     <span> | </span>
