@@ -9,7 +9,7 @@
   <h3>
     <span> | </span>
        <a href="https://t.me/MayushiiTuturuubot">
-      Give it a try!
+      Give it a try! (no longer working, ty heroku, but feel free to run it locally)
     </a>
     <span> | </span>
   </h3>
@@ -21,7 +21,6 @@
 
 - [Built With](#built-with)
 - [Features](#features)
-- [Contact](#contact)
 
 ### Built With
 
@@ -36,7 +35,3 @@
 
 - [x] Get free games!
 
-## Contact
-
-- GitHub [michan-9](https://github.com/michan-9/)
-- LinkedIn [Miguel Ramirez](https://www.linkedin.com/in/dinocook/)
