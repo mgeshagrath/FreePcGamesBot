@@ -8,9 +8,7 @@
 <div align="center">
   <h3>
     <span> | </span>
-       <a href="https://t.me/MayushiiTuturuubot">
-      Give it a try! (no longer working, ty heroku, but feel free to run it locally)
-    </a>
+      Give it a try! (no longer working externally, ty heroku, but feel free to run it locally)
     <span> | </span>
   </h3>
 </div>
